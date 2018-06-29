@@ -16,6 +16,6 @@ Import to SocketServer  Download Link : https://docs.python.org/2/library/socket
 Import to BaseHTTPSever Download Link : https://docs.python.org/2/library/basehttpserver.html
 
 ++
-To Connect appropriatly Change server_address = ('your IP', port)
+To Connect appropriatly, Change server_address = ('your IP', port)...
 ++
 
